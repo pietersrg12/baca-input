@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@android:drawable/dialog_holo_light_frame"
+    >
+
+    <TextView
+        android:id="@+id/idpel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="44119204940" />
+
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SUMSANG"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/alamat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jl. Sesama no 1" />
+
+    <TextView
+        android:id="@+id/trfdya"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="R1T/450" />
+
+
+
+</LinearLayout>
